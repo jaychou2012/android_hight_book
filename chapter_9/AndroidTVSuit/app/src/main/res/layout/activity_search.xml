@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dimen_45dp"
+    android:paddingTop="@dimen/dimen_20dp"
+    android:paddingRight="@dimen/dimen_45dp"
+    android:paddingBottom="@dimen/dimen_20dp"
+    tools:context=".ui.MainActivity">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        tools:context=".ui.MainActivity">
+
+        <LinearLayout
+            android:id="@+id/ll_keyboard"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context=".ui.MainActivity">
+
+            <EditText
+                android:id="@+id/et_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/keybord_nomal"
+                android:drawableLeft="@mipmap/icon_search"
+                android:enabled="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="输入片名/人名的首字母或全拼"
+                android:lines="1"
+                android:padding="10dp"
+                android:textColor="@color/search_color"
+                android:textColorHint="@color/gray_light"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.td.tvsuit.views.KeyBordView
+                android:id="@+id/kbv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

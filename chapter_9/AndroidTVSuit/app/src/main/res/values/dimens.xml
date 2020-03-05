@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">45dp</dimen>
+    <dimen name="dimen__2dp">-2dp</dimen>
+    <dimen name="dimen__3dp">-3dp</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="card_border">3dp</dimen>
+    <dimen name="dimen_45dp">45dp</dimen>
+</resources>

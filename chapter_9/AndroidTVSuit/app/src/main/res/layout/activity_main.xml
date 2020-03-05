@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dimen_45dp"
+    android:paddingTop="@dimen/dimen_20dp"
+    android:paddingBottom="@dimen/dimen_20dp"
+    tools:context=".ui.MainActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <com.td.tvsuit.views.SlideViewPager
+        android:id="@+id/svp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <com.td.tvsuit.leanback.widget.tablayout.TvTabLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:tabIndicatorHeight="@dimen/padding"
+        app:tabIndicatorResId="@drawable/tablayout_selector"
+        app:tabLayoutGravity="center"
+        app:tabLayoutIndicatorGravity="center"
+        app:tabPaddingEnd="25dp"
+        app:tabPaddingStart="25dp"
+        app:tabScrollMode="scrollable"
+        app:tabTexSize="24sp"
+        app:tabTextColor="@color/tablayout_color"
+        app:tabTextSelectedScale="1.1" />
+
+</LinearLayout>

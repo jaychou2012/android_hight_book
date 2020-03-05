@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.td.tvsuit.views.ratio.widget.RatioFrameLayout
+        android:id="@+id/fl_one"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/dimen_5dp"
+        android:layout_weight="1"
+        android:background="@drawable/item_border_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_3dp"
+        app:datumRatio="datumWidth"
+        app:heightRatio="100.0"
+        app:widthRatio="50.0">
+
+        <ImageView
+            android:id="@+id/iv_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg"
+            android:scaleType="fitXY" />
+
+        <View
+            android:id="@+id/v_alpha_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_alpha_view" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical">
+
+            <com.td.tvsuit.views.ScrollTextView
+                android:id="@+id/tv_text_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@drawable/tips_bg_nomal" />
+
+            <TextView
+                android:id="@+id/tv_number_one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@drawable/tips_bg_nomal"
+                android:gravity="left"
+                android:padding="10dp"
+                android:text="全20集"
+                android:textColor="#BDBDBD"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </com.td.tvsuit.views.ratio.widget.RatioFrameLayout>
+
+    <com.td.tvsuit.views.ratio.widget.RatioLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        app:datumRatio="datumWidth"
+        app:heightRatio="100.0"
+        app:widthRatio="50.0">
+
+        <FrameLayout
+            android:id="@+id/fl_two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/dimen_5dp"
+            android:layout_weight="1"
+            android:background="@drawable/item_border_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:padding="@dimen/dimen_3dp">
+
+            <ImageView
+                android:id="@+id/iv_two"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/card_bg"
+                android:scaleType="fitXY" />
+
+            <View
+                android:id="@+id/v_alpha_two"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_alpha_view" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:orientation="vertical">
+
+                <com.td.tvsuit.views.ScrollTextView
+                    android:id="@+id/tv_text_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/tips_bg_nomal" />
+
+                <TextView
+                    android:id="@+id/tv_number_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/tips_bg_nomal"
+                    android:gravity="left"
+                    android:padding="10dp"
+                    android:text="全20集"
+                    android:textColor="#BDBDBD"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+        </FrameLayout>
+    </com.td.tvsuit.views.ratio.widget.RatioLinearLayout>
+</LinearLayout>

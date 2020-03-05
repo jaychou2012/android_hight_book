@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="light_black">#3a3a3d</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="menu_bg">#553a3a3d</color>
+    <color name="left_menu_bg">#3d8ff4</color>
+    <color name="alpha_bg">#10000000</color>
+    <color name="alpha_gray">#30000000</color>
+    <color name="card_bg">#000000</color>
+    <color name="blue">#B011ADFF</color>
+    <color name="dark_blue">#178fff</color>
+    <color name="bg">#202020</color>
+    <color name="gray_light">#bdbdbd</color>
+</resources>

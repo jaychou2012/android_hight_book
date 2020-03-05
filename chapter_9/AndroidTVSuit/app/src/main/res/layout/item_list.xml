@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fl_parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_border_selector"
+    android:clipChildren="false"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:padding="@dimen/card_border">
+
+    <com.td.tvsuit.views.ratio.widget.RatioImageView
+        android:id="@+id/iv_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/gray_alpha"
+        android:scaleType="fitXY"
+        app:datumRatio="datumWidth"
+        app:heightRatio="40"
+        app:widthRatio="30" />
+
+    <View
+        android:id="@+id/v_alpha"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_alpha_view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
+
+        <com.td.tvsuit.views.ScrollTextView
+            android:id="@+id/tv_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@drawable/tips_bg_nomal" />
+
+        <TextView
+            android:id="@+id/tv_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@drawable/tips_bg_nomal"
+            android:gravity="left"
+            android:padding="10dp"
+            android:text="全20集"
+            android:textColor="#BDBDBD"
+            android:visibility="gone" />
+
+    </LinearLayout>
+</FrameLayout>

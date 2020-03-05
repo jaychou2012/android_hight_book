@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.td.tvsuit.views.ratio.widget.RatioLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="vertical"
+    app:datumRatio="datumHeight"
+    app:heightRatio="100.0"
+    app:widthRatio="30.0">
+
+    <FrameLayout
+        android:id="@+id/fl_one"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/dimen_5dp"
+        android:layout_weight="3"
+        android:background="@drawable/item_border_selector"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_3dp">
+
+        <ImageView
+            android:id="@+id/iv_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg"
+            android:scaleType="fitXY" />
+
+        <View
+            android:id="@+id/v_alpha_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_alpha_view" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_two"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="@dimen/dimen_5dp"
+        android:layout_marginTop="@dimen/dimen_5dp"
+        android:layout_marginRight="@dimen/dimen_5dp"
+        android:layout_weight="1"
+        android:background="@drawable/item_border_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_3dp">
+
+        <ImageView
+            android:id="@+id/iv_two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg"
+            android:scaleType="fitXY" />
+
+        <View
+            android:id="@+id/v_alpha_two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_alpha_view" />
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/fl_three"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="@dimen/dimen_5dp"
+        android:layout_marginTop="@dimen/dimen__3dp"
+        android:layout_marginRight="@dimen/dimen_5dp"
+        android:layout_weight="1"
+        android:background="@drawable/item_border_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_3dp">
+
+        <ImageView
+            android:id="@+id/iv_three"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg"
+            android:scaleType="fitXY" />
+
+        <View
+            android:id="@+id/v_alpha_three"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_alpha_view" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_four"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="@dimen/dimen_5dp"
+        android:layout_marginTop="@dimen/dimen__3dp"
+        android:layout_marginRight="@dimen/dimen_5dp"
+        android:layout_marginBottom="@dimen/dimen_5dp"
+        android:layout_weight="1"
+        android:background="@drawable/item_border_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/dimen_3dp">
+
+        <ImageView
+            android:id="@+id/iv_four"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/card_bg"
+            android:scaleType="fitXY" />
+
+        <View
+            android:id="@+id/v_alpha_four"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_alpha_view" />
+    </FrameLayout>
+</com.td.tvsuit.views.ratio.widget.RatioLinearLayout>
