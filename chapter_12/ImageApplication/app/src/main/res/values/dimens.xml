@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_padding">10dp</dimen>
+    <dimen name="item_light_padding">5dp</dimen>
+    <dimen name="image_width">100dp</dimen>
+    <dimen name="image_height">80dp</dimen>
+    <dimen name="width_weight">0dp</dimen>
+    <dimen name="line_height">1px</dimen>
+    <dimen name="img_height">200dp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="content_size">16sp</dimen>
+</resources>

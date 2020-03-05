@@ -1,0 +1,54 @@
+﻿[
+{
+"id":0,
+"imageUrl":"https://pics1.baidu.com/feed/eaf81a4c510fd9f957120ac270c0db2c2934a403.jpeg?token=d288cd38ff335ae039d9916e7ef10995&s=3FA7CF044067671FC6A4E99603007090",
+"title":"丹麦现“反重力”瀑布 逆流而上冲过470米绝壁",
+"content":"近日，在丹麦法罗群岛，41岁的游客萨米在悬崖边看到一条“逆流而上”的瀑布，海水直接冲上了470米高的绝壁，在顶端散开来。气象学家格雷格称这是一条“海龙卷风”，因为当地气象不稳定，海洋漩涡制造出了一种螺旋状的气柱，气柱在悬崖的边缘处快速旋转，在水面上形成了一股“龙卷风”。"
+},
+{"id":1,
+"imageUrl":"http://k.sinaimg.cn/n/edu/transform/500/w300h200/20200117/a547-inhcyca4927967.jpg/w150h100f1t0l0q100syf.jpg",
+"title":"寒假模式将启 不少家长用书对付“出笼神兽”",
+"content":"明天，按重庆市教委通知，我市各大中小学将正式开启寒假模式，不少家长直呼“神兽出笼”。试考完了，假期大把时光正是孩子积累的好时候，主城各大书店热闹了起来，孩子们爱看些什么书？哪些书是老师重点推荐的阅读书目？为了寻找答案，记者到图书品类最全、人流最集中的重庆书城打探了一番。"
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/edu/transform/116/w550h366/20200117/4ea0-inhcyca6310043.jpg",
+"title":"德国一女子勇敢挑战加拿大落基山脉的冰冻瀑布",
+"content":"来自德国的42岁极限运动爱好者 Tanja Schmitt 日前来到加拿大落基山脉，勇敢挑战了当季限定的冰冻瀑布，她在攀登过程中需要不断面临破裂和掉落的冰层，场面惊心动魄。Tanja 跟随一档名叫 French Reality 的节目挑战全球冰瀑，迄今为止已经征服了500多座瀑布。"
+}
+,
+ {"id":1,
+ "imageUrl":"https://n.sinaimg.cn/tech/transform/362/w630h532/20180824/BhBJ-hicsiaw0614414.jpg",
+ "title":"安卓和iOS用户为啥转换阵营？ 价格和体验是主要因素",
+ "content":"在每季度财报电话会上，苹果CEO库克（Tim Cook）都会讲，从Android设备转向iPhone的用户比例很高等等，以显示iPhone手机和iOS系统的魅力。根据PCMag的统计，从安卓系统转向iOS的用户中，47%的人说他们这样做是为了“更好的用户体验”，25%的人说他们选择了“更好的功能”，比如拍照和外观设计——也就是说，安卓用户确实有不少都认同iOS系统手机（也就是iPhone）更好用。"
+ },
+{"id":1,
+"imageUrl":"https://n1-q.mafengwo.net/s15/M00/0E/58/CoUBGV3p9fyAe-yXAAs-a7UOZj8050.jpg?imageView2%2F2%2Fw%2F680%2Fq%2F90",
+"title":"探索新会四季玩法，品味千年古韵风情",
+"content":"南海之滨，珠江西岸，银洲湖畔，伫立着南粤历史文化名城——新会。这里不仅拥有众多值得打卡的地标景点和小众体验，一年四季还有不同的景色和新鲜的玩法，可以让您与孩子一起感受新会人文与自然的多重魅力！本篇攻略，小编将会为大家介绍春夏秋冬四季中，新会不可错过的景点与体验，一同探索千年古都的历史痕迹，慢慢感受这一座城市的厚重底蕴。"
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/edu/transform/59/w550h309/20200116/c189-inhcyca2216319.jpg",
+"title":"BBC英语大破解: Toy-free play trial",
+"content":"There were some of the older children at the end of the month who said We really would like our trains back and our purpose was never to deprive the children, so of course they had them back after the month, but two year olds - they don't want any of this back at all. And I’d also says it’s interesting what you’ve picked up because you've got a female queen and a very male, muscular superhero. Gender is something that can be reinforced through toys."
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/translate/583/w905h478/20180827/fLjX-hifuvph7989485.jpg",
+"title":"环球时报：宜家居然在眼皮子底下玩了我们这么多年！",
+"content":"在瑞典的知名家具企业“宜家”（IKEA）2017年的财报中，中国是其在全世界的第五大零售市场，也是在亚洲最大的市场。而在中国消费者眼中，“宜家”则是高质量的象征，耿直哥自己也对“宜家”青睐有加。可今天，耿直哥得要告诉大家一件被我们长期忽视的事情：宜家公司竟然一直在其官网和官方材料里，把台湾以及香港，与中国【并列】……其实，这一情况早就已经遭到不少中国消费者的持续投诉了。"
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/edu/transform/736/w510h1026/20180827/m3hF-hifuvph4634263.jpg",
+"title":"教育部：2019年全国分步实施新高考新课程",
+"content":"日前，教育部印发《关于做好普通高中新课程新教材实施工作的指导意见》（教育部组织修订并颁布了《普通高中课程方案和语文等学科课程标准（2017年版）》（以下简称新课程），目前正在组织编写修订普通高中各学科教材（以下简称新教材）。意见》指出，从2019年秋季学期起，全国各省（区、市）分步实施新课程、使用新教材。2022年秋季开学，全国各省（区、市）均启动实施新课程新教材。《意见》具体有哪些实施步骤？重点任务是什么？随小编一起看。"
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/translate/666/w400h266/20180827/cUeA-hifuvph3519026.jpg",
+"title":"小猪佩奇不好惹：在华打假 侵权商家一审被罚15万",
+"content":"在各国经济、文化交往日益深入的如今，知识产权的地域性受到了空前的冲击，涉外知识产权保护已成为国际贸易的核心问题。据杭州当地媒体报道，8月20日，杭州互联网法院对一起“Peppa Pig”（“小猪佩奇”）的著作权侵权纠纷案进行了网上公开宣判。据称，这是小猪佩奇进入中国市场后，其中国著作权所有人，艾斯利贝克戴维斯有限公司（以下简称“艾贝戴公司”）和娱乐壹英国有限公司（以下简称“娱乐壹公司”），针对被授权商提起的著作权侵权首例判决案件。"
+},
+{"id":1,
+"imageUrl":"http://n.sinaimg.cn/sinacn23/267/w640h427/20180719/8a89-hfnsvzc0988022.jpg",
+"title":"Ken-TV：万年摇不到号的你 或者考虑下新能源？",
+"content":"省油送牌还有补贴，使新能源车越来越受欢迎。市场上新能源主要为车分为纯电、油电混动和插电混动，如今就连各大超跑厂家也开始打造新能源车，相信日后必是新能源车的天下。省油送牌还有补贴，使新能源车越来越受欢迎。市场上新能源主要为车分为纯电、油电混动和插电混动，如今就连各大超跑厂家也开始打造新能源车，相信日后必是新能源车的天下。"
+}
+]
